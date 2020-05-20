@@ -42,8 +42,7 @@
       ##### *2)  Se realizaran operaciones con las variables defenidas anteriormente*
       ##### *3)  Se utilizará "assert" para comprobar que se den los resultados esperados*
 
-    - ##### Representación visual.
-
+   
 
 ### Crédito extra
 
