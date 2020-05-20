@@ -8,7 +8,7 @@ Peña Maximiliano Ezequiel
 
 int main () {
     bool bool1{true}, bool2{false}, bool3{};
-    char car1{'3'}, car2{'2'}, car3{};
+    char car1{'A'}, car2{'B'}, car3{};
     unsigned nat1{23}, nat2{4}, nat3{};
     int ent1{-4}, ent2{3}, ent3{};
     double rea1{1.5}, rea2{2.5}, rea3{};
@@ -19,7 +19,7 @@ bool3 = bool1 or bool2;
 assert (bool3 == 1);
 
 car3 = car1 + car2;
-/*std::cout << car1 + car2;*/ /*La idea era que al "concatenar" car1 y car2 se muestre "32", pero toma su correspondiente valor ASCII y los suma*/
+/*std::cout << car1 + car2;*/ /*La idea era que al "concatenar" car1 y car2 se muestre "AB", pero toma su correspondiente valor ASCII y los suma*/
 assert (car3 = 131);
 
 nat3 = nat1 % nat2 ;
