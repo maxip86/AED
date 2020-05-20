@@ -19,7 +19,7 @@ bool3 = bool1 or bool2;
 assert (bool3 == 1);
 
 /*car3 = car1 + car2;*/
-/*std::cout << car1 +car2;*/ /*La idea era que al "sumar" car1+car2 se muetre "32", ya que al ser de tipo char se concatenarían, pero los está tomando como númeron y los suma*/
+/*std::cout << car1 +car2;*/ /*La idea era que al "sumar" car1+car2 se muestre "32", ya que al ser de tipo char se concatenarían, pero los está tomando como del tipo int y los suma*/
 /*assert (car3 == 32)*/
 
 nat3 = nat1 % nat2 ;
