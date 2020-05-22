@@ -24,7 +24,7 @@
       - ##### *String*
 
   - ##### Modelo IPO. 
-    ##### *-->Operaciones --> Caracteres, buleanos, N, Z, R, cadena de caracteres*
+    ##### *-->Operaciones -->*
 
 2. #### Diseño de la Solución:
   - ##### Léxico del Algoritmo. 
