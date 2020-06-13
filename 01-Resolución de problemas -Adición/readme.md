@@ -26,7 +26,9 @@
     
     - ##### Representación textual. 
       ##### *1) Almacenar en "a" el primer número ingresado por el usuario.*
-      ##### *2)  Almacenar en "b" el segundo número ingresado por el usuario.*
-      ##### *3)  Mostrar a+b*
+      ##### *2) Almacenar en "b" el segundo número ingresado por el usuario.*
+      ##### *3) Mostrar a+b*
       
     - ##### Representación visual. 
+    
+    ![Representacion](https://github.com/maxip86/AED/blob/master/01-Resoluci%C3%B3n%20de%20problemas%20-Adici%C3%B3n/Representaci%C3%B3n%20visual.png)
