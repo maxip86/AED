@@ -30,7 +30,7 @@
     ##### *"a" perteneciente a naturales*
 
   - ##### Definición matemática.
- ![Función](https://github.com/maxip86/AED/blob/master/03-Precedencia%20de%20Operadores%20-%20Bisiesto/funcion.jpg)
+ ![Función](https://github.com/maxip86/AED/blob/master/03-Precedencia%20de%20Operadores%20-%20Bisiesto/funcion.png)
  
                   
 
