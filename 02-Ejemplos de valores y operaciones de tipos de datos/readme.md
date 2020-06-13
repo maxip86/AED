@@ -24,7 +24,12 @@
       - ##### *String*
 
   - ##### Modelo IPO. 
-    ##### *-->Operaciones -->*
+    ##### *bool --> suma lógica --> bool*
+    ##### *char --> suma --> unsigned*
+    ##### *NxN --> resto --> N*
+    ##### *ZxZ --> suma aritmetica --> Z*
+    ##### *String --> concatenación --> String*
+    
 
 2. #### Diseño de la Solución:
   - ##### Léxico del Algoritmo. 
