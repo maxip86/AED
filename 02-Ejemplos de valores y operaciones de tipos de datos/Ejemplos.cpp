@@ -3,8 +3,8 @@ Peña Maximiliano Ezequiel
 20200520
 */
 
-#include <iostream>
-#include <assert.h>
+//#include <iostream>
+#include <cassert>
 
 int main () {
     bool bool1{true}, bool2{false}, bool3{};
