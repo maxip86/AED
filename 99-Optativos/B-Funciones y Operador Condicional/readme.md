@@ -23,7 +23,7 @@
       - ##### *Función Valor absoluto: la cual retorna la distancia al 0 de un número dado*
       - ##### *Función Valor mínimo entre dos valores: La cual dados dos números indicará cuale es el menor o si son iguales*
       - ##### *Función "f", la cual se define como:
-      ![Función f](\Función f.png)
+      ![Función f](https://github.com/maxip86/AED/blob/master/99-Optativos/B-Funciones%20y%20Operador%20Condicional/Funci%C3%B3n%20f.png)
 
   - ##### Modelo IPO.
     ##### *RxR --> Función Valor Absoluto --> R*
@@ -35,7 +35,7 @@
     ##### *"a" y "b" perteneciente a reales*
 
   - ##### Definición matemática.
-    ![Definicion matematica](Definicion matematica.png)
+    ![Definicion matematica](https://github.com/maxip86/AED/blob/master/99-Optativos/B-Funciones%20y%20Operador%20Condicional/Definicion%20matematica.png)
 
   - ##### Representación del Algoritmo:
 
